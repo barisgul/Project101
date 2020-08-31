@@ -1,0 +1,9 @@
+C:\Users\baris\source\repos\Project101\Project101\bin\Debug\netcoreapp3.1\Project101.deps.json
+C:\Users\baris\source\repos\Project101\Project101\bin\Debug\netcoreapp3.1\Project101.dll
+C:\Users\baris\source\repos\Project101\Project101\obj\Debug\netcoreapp3.1\Project101.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\Project101\Project101\obj\Debug\netcoreapp3.1\Project101.AssemblyInfo.cs
+C:\Users\baris\source\repos\Project101\Project101\bin\Debug\netcoreapp3.1\Project101.pdb
+C:\Users\baris\source\repos\Project101\Project101\obj\Debug\netcoreapp3.1\Project101.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\Project101\Project101\obj\Debug\netcoreapp3.1\Project101.dll
+C:\Users\baris\source\repos\Project101\Project101\obj\Debug\netcoreapp3.1\Project101.pdb
+C:\Users\baris\source\repos\Project101\Project101\obj\Debug\netcoreapp3.1\Project101.csprojAssemblyReference.cache
